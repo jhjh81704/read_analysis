@@ -22,4 +22,4 @@ for d in data:
     sum_len += len(d)
     print(sum_len)
 
-print('平均是', sum_len/len(data))
+print('留言的平均長度是', sum_len/len(data))
